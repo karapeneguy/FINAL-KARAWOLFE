@@ -47,30 +47,6 @@ a {
 a:active {
   color: #828d95; }
 
-h1 {
-  font-family: "Permanent Marker", cursive;
-  font-size: 60px;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 0px; }
-
-h2 {
-  font-family: "Permanent Marker", cursive;
-  font-size: 20px;
-  text-align: center; }
-
-h3 {
-  font-family: "Permanent Marker", cursive;
-  font-size: 40px;
-  margin-top: 20px;
-  margin-bottom: 0px;
-  text-align: center;
-  margin-left: 10%;
-  width: 40%; }
-
-p {
-  font-family: "Open Sans", sans-serif; }
-
 #mainimage {
   display: block;
   margin-left: auto;
@@ -157,5 +133,29 @@ p {
   .biography p {
     font-size: 12px;
     font-family: "Open Sans", sans-serif; }
+
+h1 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px; }
+
+h2 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 20px;
+  text-align: center; }
+
+h3 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  text-align: center;
+  margin-left: 10%;
+  width: 40%; }
+
+p {
+  font-family: "Open Sans", sans-serif; }
 
 /*# sourceMappingURL=main.css.map */
