@@ -6,7 +6,9 @@
    
 <img src="assets/images/bluewallskirt.jpg" id="mainimage">
     
-        <img src="assets/images/IMG_20171029_180205.jpg" id="aboutmeimg">
+        
+
+<img src="assets/images/jacketbed.jpg" id="aboutmeimg">
 
     
    <div id="aboutme"> <h3>About Me</h3>
@@ -32,7 +34,14 @@
       <button>Full Biography</button>
     </div>
 
-  <div class="biography"><p class= "biotext">Kara Wolfe grew up in Baton Rouge but currently resides in New Orleans, Louisiana. </p></div>
+  <div class="biography"><p class= "biotext"> //infp// singer-songwriter// feminist // rebel // wanderer// survivor // new orleans, la //</p>
+      <p>obsessed with animals, retro clothing, california, driving with the windows down, leather jackets, tattoos, quirky people, fun patterns, cookie dough, thrift stores, being in the sun, jumping into cold pools, writing, improving over beats, amsterdam, houseboats, vespas, sunglasses, riding in the back of trucks, interior design, succulents, indoor plants, bohemian design, minimalism, mindfulness </p>
+      
+      <p>i value genuinity, independence, honesty, open-mindedness, creativity, bluntness, openess, kindness, tenacity, drive, empathy </p>
+      <a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/kara_wolfe/%252Binfp%252B/"></a>
+      
+      
+    </div>
     
 
     

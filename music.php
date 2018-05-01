@@ -1,3 +1,3 @@
 
-<?php include "gallery.php"; ?>
+<?php include "templates/gallery.php"; ?>
 
